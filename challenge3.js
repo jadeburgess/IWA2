@@ -7,6 +7,8 @@
 
 console.warn(Security scan starting)
 
-/* It is important to let user know when they can close the page  /*
+/* It is important to let user know when they can close the page  */
 
-cnosole.info('Please wait for scan to complete before closing the browser.)
+console.info
+/*Please wait for scan to complete before closing the browser*/
+/* comment */
